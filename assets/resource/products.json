@@ -46,13 +46,5 @@
         "imageUrl": "https://m.media-amazon.com/images/I/41KW07Zo+4L._AC_SX679_.jpg",
         "price": "1,099",
         "store": "Amazon Mexico"
-    },
-    {
-        "id": "7",
-        "name": "Nike W Legend Essential 3 NN Sneaker para Mujer",
-        "link": "https://www.amazon.com.mx/Nike-Legend-Essential-Smokey-Black-White-Platinum/dp/B0CT61S4M6/ref=sr_1_44?sr=8-44&ufe=app_do%3Aamzn1.fos.de93fa6a-174c-4df7-be7c-5bc8e9c5a71b&psc=1",
-        "imageUrl": "https://m.media-amazon.com/images/I/81DUJUdlkjL._AC_SX675_.jpg",
-        "price": "1,603",
-        "store": "Amazon Mexico"
     }
 ]
