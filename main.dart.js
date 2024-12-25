@@ -61960,7 +61960,7 @@ A.De.prototype={
 T(a){return new A.t1("/","Regalo mama",A.abR(null,null,!0),!1,$.aku(),null)}}
 A.ov.prototype={
 T(a){var s=this,r=null,q=A.adK(10),p=A.G5(s.e,2,r,r),o=s.f
-o=o.length!==0?A.oU(new A.t9(A.aqz(r,r,new A.oo(o,1,r)),B.vn,r),r,150):r
+o=o.length!==0?A.oU(new A.t9(A.aqz(r,r,new A.oo(o,1,r)),B.vn,r),r,100):r
 return new A.iL(B.y3,new A.Af(4,new A.dy(q,B.r),new A.CL(o,p,A.G5("$"+s.r+" - "+s.x,r,r,r),new A.Ch(B.yp,r),!0,new A.a_g(s),r),r),r)}}
 A.a_g.prototype={
 $0(){var s=this.a,r=$.ce
@@ -64367,7 +64367,7 @@ B.vl=new A.qF(B.Es,B.fS)
 B.tq=new A.F4(1,"fast")
 B.vm=new A.qF(B.tq,B.fS)
 B.hV=new A.aE(1/0,1/0,1/0,1/0)
-B.vn=new A.qH(0,"fill")
+B.vn=new A.qH(1,"contain")
 B.vo=new A.qH(2,"cover")
 B.vp=new A.qH(6,"scaleDown")
 B.hW=new A.qI(0,"tight")
